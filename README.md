@@ -14,6 +14,7 @@
   - [Textarea](https://ui.shadcn.com/docs/components/textarea)
   - [Toast](https://ui.shadcn.com/docs/components/toast)
   - [Progress](https://ui.shadcn.com/docs/components/progress)
+  - [Sheet](https://ui.shadcn.com/docs/components/sheet)
 - [Convex](https://docs.convex.dev/quickstart/nextjs)
   - [HTTP Actions](https://docs.convex.dev/functions/http-actions)
   - [Convex & Clerk](https://docs.convex.dev/auth/clerk)
