@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function AuthLayout({
   children,
 }: Readonly<{
@@ -5,7 +7,17 @@ export default function AuthLayout({
 }>) {
   return (
     <div>
-      <main>{children}</main>
+      <main className="relative h-screen w-full">
+        <div className="absolute size-full">
+          <Image
+            src="/images/bg-img.png"
+            alt="background"
+            fill
+            className="size-full"
+          />
+        </div>
+        {children}
+      </main>
     </div>
   );
 }
