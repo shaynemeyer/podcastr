@@ -13,6 +13,7 @@
   - [Select](https://ui.shadcn.com/docs/components/select)
   - [Textarea](https://ui.shadcn.com/docs/components/textarea)
   - [Toast](https://ui.shadcn.com/docs/components/toast)
+  - [Progress](https://ui.shadcn.com/docs/components/progress)
 - [Convex](https://docs.convex.dev/quickstart/nextjs)
   - [HTTP Actions](https://docs.convex.dev/functions/http-actions)
   - [Convex & Clerk](https://docs.convex.dev/auth/clerk)
@@ -23,6 +24,7 @@
   - [OpenAI Text to Speech](https://platform.openai.com/docs/guides/text-to-speech)
 - [uploadstuff](https://uploadstuff.dev/)
   - [Install uploadstuff](https://uploadstuff.dev/getting-started)
+- [Embla Carousel](https://www.embla-carousel.com/)
 
 ---
 ## Todos
